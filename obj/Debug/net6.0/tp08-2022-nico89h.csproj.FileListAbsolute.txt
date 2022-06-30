@@ -1,0 +1,15 @@
+C:\Users\user\OneDrive\Escritorio\Tp8-Taller\tp08-2022-nico89h\bin\Debug\net6.0\tp08-2022-nico89h.exe
+C:\Users\user\OneDrive\Escritorio\Tp8-Taller\tp08-2022-nico89h\bin\Debug\net6.0\tp08-2022-nico89h.deps.json
+C:\Users\user\OneDrive\Escritorio\Tp8-Taller\tp08-2022-nico89h\bin\Debug\net6.0\tp08-2022-nico89h.runtimeconfig.json
+C:\Users\user\OneDrive\Escritorio\Tp8-Taller\tp08-2022-nico89h\bin\Debug\net6.0\tp08-2022-nico89h.dll
+C:\Users\user\OneDrive\Escritorio\Tp8-Taller\tp08-2022-nico89h\bin\Debug\net6.0\tp08-2022-nico89h.pdb
+C:\Users\user\OneDrive\Escritorio\Tp8-Taller\tp08-2022-nico89h\obj\Debug\net6.0\tp08-2022-nico89h.csproj.AssemblyReference.cache
+C:\Users\user\OneDrive\Escritorio\Tp8-Taller\tp08-2022-nico89h\obj\Debug\net6.0\tp08-2022-nico89h.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\OneDrive\Escritorio\Tp8-Taller\tp08-2022-nico89h\obj\Debug\net6.0\tp08-2022-nico89h.AssemblyInfoInputs.cache
+C:\Users\user\OneDrive\Escritorio\Tp8-Taller\tp08-2022-nico89h\obj\Debug\net6.0\tp08-2022-nico89h.AssemblyInfo.cs
+C:\Users\user\OneDrive\Escritorio\Tp8-Taller\tp08-2022-nico89h\obj\Debug\net6.0\tp08-2022-nico89h.csproj.CoreCompileInputs.cache
+C:\Users\user\OneDrive\Escritorio\Tp8-Taller\tp08-2022-nico89h\obj\Debug\net6.0\tp08-2022-nico89h.dll
+C:\Users\user\OneDrive\Escritorio\Tp8-Taller\tp08-2022-nico89h\obj\Debug\net6.0\refint\tp08-2022-nico89h.dll
+C:\Users\user\OneDrive\Escritorio\Tp8-Taller\tp08-2022-nico89h\obj\Debug\net6.0\tp08-2022-nico89h.pdb
+C:\Users\user\OneDrive\Escritorio\Tp8-Taller\tp08-2022-nico89h\obj\Debug\net6.0\tp08-2022-nico89h.genruntimeconfig.cache
+C:\Users\user\OneDrive\Escritorio\Tp8-Taller\tp08-2022-nico89h\obj\Debug\net6.0\ref\tp08-2022-nico89h.dll
